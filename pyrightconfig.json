@@ -1,0 +1,6 @@
+{
+  "include": ["."],
+  "exclude": ["**/__pycache__", "**/.pytest_cache"],
+  "extraPaths": ["."],
+  "reportMissingImports": "warning"
+}

@@ -1,0 +1,7 @@
+# Substring patterns (case-insensitive, one per line). Sessions whose
+# content matches any pattern get auto-marked as IGNORED on
+# `python3 ingest_sources.py claude-session list`.
+#
+# Examples:
+#   client-acme
+#   experimental-fork
